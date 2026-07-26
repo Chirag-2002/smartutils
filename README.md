@@ -1,8 +1,5 @@
 # smartutils
 
-## PROJECT TITLE : 
-
-# SMART UTILS
 
 ## DESCRIPTION : 
 
@@ -16,8 +13,6 @@ SmartUtils is a Python utility package that provides reusable helper classes and
 - More utilities will be added in future releases
 
 ## Installation : 
-
-JUST USE THIS 
 
 ```bash
 pip install smartutils
