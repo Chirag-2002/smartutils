@@ -1,5 +1,11 @@
 # smartutils
 
+## Author
+
+**Chirag Jain**
+
+Python Developer | Data Analyst | AI Enthusiast
+
 
 ## DESCRIPTION : 
 
