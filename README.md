@@ -21,7 +21,7 @@ SmartUtils is a Python utility package that provides reusable helper classes and
 ## Installation : 
 
 ```bash
-pip install smartutils
+pip install chirag-smartutils
 ```
 
 ## USAGE 
