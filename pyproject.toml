@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chirag-smartutils"
+version = "0.1.0"
+description = "A Python utility package containing reusable helper classes."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Chirag Jain" }
+]
+keywords = [
+    "python",
+    "utilities",
+    "helpers",
+    "numbers",
+    "package"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
