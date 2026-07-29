@@ -1,3 +1,5 @@
+LICENSE
+README.md
 pyproject.toml
 chirag_smartutils.egg-info/PKG-INFO
 chirag_smartutils.egg-info/SOURCES.txt
